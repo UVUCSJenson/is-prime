@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+//Checks is a number is prime
 int main() {
     int num;
     cout << "Enter an integer: ";
